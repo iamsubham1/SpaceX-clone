@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SpaceX-clone/static/css/main.df119143.css",
+    "main.js": "/SpaceX-clone/static/js/main.3bd9785d.js",
+    "static/js/787.d8672042.chunk.js": "/SpaceX-clone/static/js/787.d8672042.chunk.js",
+    "static/media/background.jpg": "/SpaceX-clone/static/media/background.f9b33f51f90db8712645.jpg",
+    "static/media/background2.jpg": "/SpaceX-clone/static/media/background2.db1d1c8361e2bf9cbd9f.jpg",
+    "index.html": "/SpaceX-clone/index.html",
+    "main.df119143.css.map": "/SpaceX-clone/static/css/main.df119143.css.map",
+    "main.3bd9785d.js.map": "/SpaceX-clone/static/js/main.3bd9785d.js.map",
+    "787.d8672042.chunk.js.map": "/SpaceX-clone/static/js/787.d8672042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df119143.css",
+    "static/js/main.3bd9785d.js"
+  ]
+}
